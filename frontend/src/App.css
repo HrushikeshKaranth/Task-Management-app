@@ -176,8 +176,9 @@ input{
 .btn{
     background-color: var(--mainbg);
     border: none;
-    padding: 10px;
-    padding: 20px 30px 20px 30px;
+    height: 50px;
+    /* padding: 10px; */
+    /* padding: 20px 30px 20px 30px; */
     display: flex;
     justify-content: center;
     align-items: center;
